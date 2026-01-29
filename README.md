@@ -31,7 +31,6 @@
   - **Frontend only**
   - **Admin only**
   - **Shortcode only** (`[snippets_bros id="xOxX52x.XXxXx12"]`)
-  - **Header** / **Footer**
 - Advanced conditions:
   - **URL rules**: Multiple URL patterns (one per line), supports contains/exact matching
   - **Multiple locations per snippet** with AND logic (e.g. `/blog` **and** `/contact` **and** `/games`)
