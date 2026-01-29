@@ -4,13 +4,13 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot-1.png" width="400" />
-  <img src="Screenshots/Screenshot-2.png" width="400" />
+  <img src="Screenshots/Screenshot-1.png" width="600" />
 </p>
 
 <p align="center">
-  <img src="Screenshots/Screenshot-3.png" width="400" />
-  <img src="Screenshots/Screenshot-4.png" width="400" />
+  <a href="Screenshots/Screenshot-2.png">View Screenshot 2</a> | 
+  <a href="Screenshots/Screenshot-3.png">View Screenshot 3</a> | 
+  <a href="Screenshots/Screenshot-4.png">View Screenshot 4</a>
 </p>
 
 ## Features
