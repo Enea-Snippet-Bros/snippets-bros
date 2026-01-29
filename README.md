@@ -1,9 +1,18 @@
 # Snippets Bros
-
 - Professional **WordPress snippet manager** that lets you manage PHP, JavaScript, CSS and HTML from a clean, modern admin UI – without editing theme files.
 
-## Features
+## Screenshots
 
+<p align="center">
+  <img src="Screenshots/Screenshot-1.png" width="45%" />
+  <img src="Screenshots/Screenshot-2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="Screenshots/Screenshot-3.png" width="45%" />
+  <img src="Screenshots/Screenshot-4.png" width="45%" />
+</p>
+
+## Features
 - Manage snippets by type: **PHP, JS, CSS, HTML**.
 - Enable/disable, clone, categorize and tag snippets.
 - Global **Header** and **Footer** code blocks for site-wide injections.
@@ -15,7 +24,6 @@
 - Modern, responsive dashboard UI (no custom post types).
 
 ### Conditional Loading & Locations
-
 - Run snippets:
   - **Everywhere**
   - **Frontend only**
@@ -23,7 +31,7 @@
   - **Shortcode only**
   - **Header** / **Footer**
 - Advanced conditions:
-  - URL rules: one rule per line (`/`, `/blog`, `/contact`, `/games`, etc.).
+  - URL rules: one rule per line `/`, `/blog`, `/contact`, `/games`, etc.).
   - Multiple locations per snippet (e.g. `/blog` **and** `/contact` **and** `/games`).
   - Basic user rules: logged-in / logged-out.
   - Device-style rules (e.g. desktop vs mobile targeting, depending on config).
@@ -31,9 +39,7 @@
 ---
 
 ## Security, Safe Mode & Sanitization
-
 Snippets Bros is built with multiple safety layers:
-
 - **Safe Mode toggle**: instantly stop all PHP snippets without deactivating the plugin.
 - **Crash shield** logic to help keep the admin accessible if a snippet causes a fatal error.
 - **Dangerous PHP protection**:
@@ -54,12 +60,12 @@ These protections reduce risk, but **cannot make unsafe code safe**. Always test
 1. Upload the `snippets-bros` plugin folder to `/wp-content/plugins/`.
 2. Activate it from **Plugins → Installed Plugins**.
 3. Go to **Snippets Bros** in the admin menu and start adding snippets.
-> ✅ Tip: Make sure the folder inside `wp-content/plugins/` is named exactly `snippets-bros`.
-## Support / Donate
 
+> ✅ Tip: Make sure the folder inside `wp-content/plugins/` is named exactly `snippets-bros`.
+
+## Support / Donate
 If you find Snippets Bros useful, you can support development here:  
 👉 https://ko-fi.com/W7W51P4XY6
 
 ## License
 Released under the GPL v2 license.
-
